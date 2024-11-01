@@ -1,1 +1,1 @@
-Its my first git class to learn and to know the knowledge of git
+diving deep into the concept of github.
